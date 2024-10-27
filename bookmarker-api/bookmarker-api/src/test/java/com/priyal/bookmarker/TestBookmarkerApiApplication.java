@@ -1,7 +1,8 @@
-package com.priyal.bookmarker_api;
+package com.priyal.bookmarker;
 
 import com.priyal.bookmarker.BookmarkerApiApplication;
 import org.springframework.boot.SpringApplication;
+import org.testcontainers.utility.TestcontainersConfiguration;
 
 public class TestBookmarkerApiApplication {
 
